@@ -77,7 +77,7 @@ demo.launch()
 ```
 ### OUTPUT:
 
-<img width="1155" height="627" alt="Screenshot 2025-11-18 133929" src="https://github.com/user-attachments/assets/0fbb548d-4bc1-4fa3-afa6-851a7bd666e8" />
+<img width="1156" height="629" alt="image" src="https://github.com/user-attachments/assets/51d23b75-b30d-47f6-b503-c1171b3e3a92" />
 
 
 ### RESULT:
